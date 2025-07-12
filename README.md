@@ -49,4 +49,4 @@ You can modify the list of countries or indicators in `Africa.py` by editing the
 
 ## License
 
-This project is for educational and
+This project is for educational and research purposes.
